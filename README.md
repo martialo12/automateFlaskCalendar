@@ -1,5 +1,4 @@
-"# automateFlaskCalendar" 
-# automateFlaskCalendar - Get Calendars and ID, Submit Event :star3:
+# automateFlaskCalendar - Get Calendars and ID, Submit Event:
 ## By Martialo dev
 
 # Purpose
