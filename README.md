@@ -21,7 +21,7 @@ http://localhost:8080/oauth2callback
 Simply download the app, have the client_secrets.json file in the same directory as app.py, and type
 
 ```
-$ python app.py
+$ python flaskgcalendar.py
 ```
 
 # Technologies
