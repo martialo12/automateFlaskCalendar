@@ -131,3 +131,5 @@ dmypy.json
 
 # config
 config/botConfig.json
+# json file
+client_secrets.json
