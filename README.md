@@ -11,10 +11,10 @@ You need to create a client_secrets.json file using the Google Developer Console
 
 ```
 Authorized Javascript Origins
-http://localhost:8080
+http://localhost:5000
 
 Authorized redirect URIs
-http://localhost:8080/oauth2callback
+http://localhost:5000/oauth2callback
 ```
 
 # Running
