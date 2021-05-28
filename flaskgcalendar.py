@@ -1,11 +1,13 @@
-import sys, json, flask, flask_socketio, httplib2, uuid, os
-from flask import Response, request
-from flask_socketio import SocketIO
+import flask
+import flask_socketio
+import httplib2
+import os
+import uuid
 from apiclient import discovery
-from oauth2client import client
-from googleapiclient import sample_tools
-from rfc3339 import rfc3339
 from dateutil import parser
+from flask_socketio import SocketIO
+from oauth2client import client
+from rfc3339 import rfc3339
 
 app = flask.Flask(__name__)
 socketio = SocketIO(app)
